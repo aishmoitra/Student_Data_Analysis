@@ -6,14 +6,14 @@ This project analyzes the key factors influencing student performance on standar
 Dataset Source: [Kaggle - Student Performance Factors](https://www.kaggle.com/datasets/lainguyn123/student-performance-factors)
 
 ## Files
-- [Project Proposal](project_proposal.pdf)
-- [Final Comprehensive Report](final_comprehensive_report.pdf)
-- [Statistical Analysis Notebook](notebooks/statistical_analysis.ipynb)
+- [Project Proposal](https://github.com/aishmoitra/Student_Data_Analysis/blob/main/project_proposal.pdf)
+- [Final Comprehensive Report](https://github.com/aishmoitra/Student_Data_Analysis/blob/main/final_comprehensive_report.pdf)
+- [Statistical Analysis Notebook](https://github.com/aishmoitra/Student_Data_Analysis/blob/main/statistical_analysis.ipynb)
 
 ## Installation & Usage
 1. Clone this repository:
    ```bash
-   git clone https://github.com/aishmoitra/Student-Performance-Analysis.git
+   git clone https://github.com/aishmoitra/Student_Data_Analysis
    ```
 2. Install required dependencies:
    ```bash
